@@ -72,3 +72,12 @@ TAGS
 coverage/
 externals/
 htmlcov/
+
+# Windows build
+PCbuild/*.user
+PCbuild/*sdf
+PCbuild/*ipch
+PC/pythonnt_rc_d.h
+
+
+
